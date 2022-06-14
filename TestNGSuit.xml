@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "SuiteTest">
+
+<test name = "FrontEnd Test">
+
+<classes>
+<class name = "com.nexsoft.testng.userbiodata.UserBiodataTest"> </class>
+</classes>
+
+</test>
+
+<test name = "BackEnd Test">
+
+<classes>
+<class name = "com.nexsoft.testng.dataprovider.DataProviderTest"> </class>
+</classes>
+
+</test>
+</suite>

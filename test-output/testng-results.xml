@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-14T22:36:15 WIB" name="Default suite" finished-at="2022-06-14T22:37:12 WIB" duration-ms="57632">
+    <groups>
+    </groups>
+    <test started-at="2022-06-14T22:36:15 WIB" name="Default test" finished-at="2022-06-14T22:37:12 WIB" duration-ms="57632">
+      <class name="com.nexsoft.tesng.userbiodata.UserBiodataTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.nexsoft.tesng.userbiodata.UserBiodataTest@5d7148e2]" started-at="2022-06-14T22:36:15 WIB" name="init" finished-at="2022-06-14T22:36:20 WIB" duration-ms="4735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="login()[pri:0, instance:com.nexsoft.tesng.userbiodata.UserBiodataTest@5d7148e2]" started-at="2022-06-14T22:36:20 WIB" name="login" finished-at="2022-06-14T22:36:23 WIB" duration-ms="3082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.nexsoft.tesng.userbiodata.UserBiodataTest@5d7148e2]" started-at="2022-06-14T22:36:23 WIB" name="createData" data-provider="getNexSoftData" finished-at="2022-06-14T22:36:28 WIB" duration-ms="5284" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Britni]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Warland]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bwarland0@over-blog.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createData -->
+        <test-method signature="createData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.nexsoft.tesng.userbiodata.UserBiodataTest@5d7148e2]" started-at="2022-06-14T22:36:28 WIB" name="createData" data-provider="getNexSoftData" finished-at="2022-06-14T22:36:33 WIB" duration-ms="4929" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Spinnace]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rspinnace1@umich.edu]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createData -->
+        <test-method signature="createData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.nexsoft.tesng.userbiodata.UserBiodataTest@5d7148e2]" started-at="2022-06-14T22:36:33 WIB" name="createData" data-provider="getNexSoftData" finished-at="2022-06-14T22:36:38 WIB" duration-ms="4839" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hymie]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tetsall]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[htetsall2@hhs.gov]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createData -->
+        <test-method signature="createData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.nexsoft.tesng.userbiodata.UserBiodataTest@5d7148e2]" started-at="2022-06-14T22:36:38 WIB" name="createData" data-provider="getNexSoftData" finished-at="2022-06-14T22:36:43 WIB" duration-ms="4851" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ellsworth]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[O'Hickee]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[eohickee3@blogtalkradio.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createData -->
+        <test-method signature="createData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.nexsoft.tesng.userbiodata.UserBiodataTest@5d7148e2]" started-at="2022-06-14T22:36:43 WIB" name="createData" data-provider="getNexSoftData" finished-at="2022-06-14T22:36:47 WIB" duration-ms="4754" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Godfry]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sasser]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[gsasser4@moonfruit.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createData -->
+        <test-method signature="createData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.nexsoft.tesng.userbiodata.UserBiodataTest@5d7148e2]" started-at="2022-06-14T22:36:47 WIB" name="createData" data-provider="getNexSoftData" finished-at="2022-06-14T22:36:52 WIB" duration-ms="4910" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lind]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tuff]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ltuff5@cdc.gov]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createData -->
+        <test-method signature="createData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.nexsoft.tesng.userbiodata.UserBiodataTest@5d7148e2]" started-at="2022-06-14T22:36:52 WIB" name="createData" data-provider="getNexSoftData" finished-at="2022-06-14T22:36:57 WIB" duration-ms="4950" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agosto]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Cooke]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[acooke6@weibo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createData -->
+        <test-method signature="createData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.nexsoft.tesng.userbiodata.UserBiodataTest@5d7148e2]" started-at="2022-06-14T22:36:57 WIB" name="createData" data-provider="getNexSoftData" finished-at="2022-06-14T22:37:02 WIB" duration-ms="4897" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mose]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Speere]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mspeere7@mapquest.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createData -->
+        <test-method signature="createData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.nexsoft.tesng.userbiodata.UserBiodataTest@5d7148e2]" started-at="2022-06-14T22:37:02 WIB" name="createData" data-provider="getNexSoftData" finished-at="2022-06-14T22:37:07 WIB" duration-ms="4970" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cozmo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Brant]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[cbrant8@washingtonpost.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createData -->
+        <test-method signature="createData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.nexsoft.tesng.userbiodata.UserBiodataTest@5d7148e2]" started-at="2022-06-14T22:37:07 WIB" name="createData" data-provider="getNexSoftData" finished-at="2022-06-14T22:37:12 WIB" duration-ms="4879" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Con]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hedgeley]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chedgeley9@oracle.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createData -->
+        <test-method signature="getUsername()[pri:1, instance:com.nexsoft.tesng.userbiodata.UserBiodataTest@5d7148e2]" started-at="2022-06-14T22:37:12 WIB" name="getUsername" finished-at="2022-06-14T22:37:12 WIB" duration-ms="384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUsername -->
+        <test-method signature="getUsername2()[pri:1, instance:com.nexsoft.tesng.userbiodata.UserBiodataTest@5d7148e2]" started-at="2022-06-14T22:37:12 WIB" name="getUsername2" finished-at="2022-06-14T22:37:12 WIB" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUsername2 -->
+      </class> <!-- com.nexsoft.tesng.userbiodata.UserBiodataTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
